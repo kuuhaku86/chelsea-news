@@ -1,0 +1,22 @@
+{
+    "name" : "Chelsea News",
+    "short_name" : "Chelsea News",
+    "description" : "Chelsea News App",
+    "start_url" : "/index.html",
+    "display" : "standalone",
+    "background_color" : "#2EA0EC",
+    "theme_color" : "#2EA0EC",
+    "gcm_sender_id": "435161968191",
+    "icons" : [
+        {
+            "src": "/img/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        } 
+    ]
+}
